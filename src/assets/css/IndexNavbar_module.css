@@ -1,0 +1,33 @@
+.navbar-translate{
+    transition: all 0.5s;
+}
+.navbar-translate:hover{
+    scale:1.03;
+}
+.nav-link{
+    transition: all .2s;
+}
+.nav-link:hover{
+    background-color:#009f8a;
+    scale:1.05;
+    box-shadow:  #027e6d 1.5px 1.5px 0 0 ;
+}
+html{
+    scroll-behavior: smooth;
+}
+.blockquote{
+    transition: all 0.5s;
+}
+.blockquote:hover{
+    scale:1.05;
+    box-shadow: 6px 6px 8px 6px #027e6d;
+}
+.menu-link-hover{
+    transition:all 0.5s;
+}
+.menu-link-hover:hover{
+    scale:1.05;
+    color:#0bf0d1;
+    
+}
+

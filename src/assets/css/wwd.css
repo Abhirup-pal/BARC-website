@@ -1,0 +1,8 @@
+.card_{
+    transition: all 0.6s;
+}
+.card_:hover{
+    scale: 1.07;
+    box-shadow: 5px 5px 5px 5px;
+
+}

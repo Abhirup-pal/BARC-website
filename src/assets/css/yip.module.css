@@ -1,0 +1,19 @@
+/* .btnContainer{
+    align-items: center;
+    margin-left: 30vw;
+} */
+/* .content{
+    font-size: 1.05rem;
+} */
+/* .container{
+    max-width: 100%;
+} */
+.test{
+    transition: all 1s;
+    margin-top: 3rem;
+    padding: 1rem;
+}
+.test:hover{
+    scale: 1.06;
+    margin-top: 2rem;
+}
